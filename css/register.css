@@ -1,0 +1,38 @@
+body{
+	margin: 0 auto;
+	text-align: center;
+	background-color: #FFFFFF;
+}
+img{
+	float:left;
+}
+#one{
+	margin: 0 auto;
+	margin-top: 100px;
+	width:500px;
+	height:300px;
+	border:#FFFFFF dotted 1px;
+	background-color:#232020;
+}
+h3{
+	margin-top: 50px;
+}
+#head{
+	background-color:#FFFFFF;
+	width:100%;
+	height:100px;
+		position:relative;
+}
+#head img{
+	margin:0 0px 0 20px;
+}
+h4{
+	margin-top: 50px;
+}
+#all{
+	
+	background: url("../img/hezhao.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding-bottom: 100px;
+}
